@@ -20,7 +20,10 @@
 Environnement | IP | DNS
 ----------| -----------|----------------
 Dashboard | 51.75.196.202 | tyk-dashboard 
-Gateway | 51.77.108.198  | tyk-gateway 
+Gateway | 51.77.108.198  | tyk-gateway1 
+Gateway | 51.83.12.162  | tyk-gateway2
+Redis | 51.68.40.126  | tyk-redis
+Gateway | 51.77.108.198  | tyk-redis
 
 ## Documentation Officielle :
 - https://tyk.io/docs/get-started/with-tyk-on-premise/installation/redhat-rhel-centos/
